@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Tiasha <br/>
+A Full Stack Web developer🎯 from India.👋 <br/>
+
+👨‍💻 Full Stack MERN Developer (Heavy on Frontend) <br/>
+📚 What do I believe? Never Give up <br/>
+📫 How to reach me: https://www.linkedin.com/in/tiasha-bhowmik-b78692169/  <br/>
+
+**Languages**:
+
 
 <!--
 **bhowmiktiasha/bhowmiktiasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
