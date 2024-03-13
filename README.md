@@ -8,7 +8,7 @@ A Full Stack Web developer🎯 from India.👋 <br/>
 **Languages**:
 ReactJS , Javascript , NextJS , React Native , NodeJS , Redux, Hooks , CSS, HTML , Bootstrap , MaterialUI , ChakraUI , TailwindCSS , SASS , Figma , SCSS , MongoDB<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhowmiktiasha&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=bhowmiktiasha&show_icons=true&theme=radical" width="400">
 
 <!--
 **bhowmiktiasha/bhowmiktiasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
