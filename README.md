@@ -1,7 +1,10 @@
 ### Hi there, I'm Tiasha <br/>
 A Full Stack Web developer🎯 from India.👋 <br/>
 
-👨‍💻 Full Stack MERN Developer (Heavy on Frontend) <br/>
+💼 I’m currently working as a Frontend Engineer at SERVIFY.<br/>
+🎒 I've done almost 2 internships in frontend primarily.<br/>
+🧭 I love exploring and working both in frontend and backend.<br/>
+🎭 I love connecting with people across all platforms.<br/>
 📚 What do I believe? Never Give up <br/>
 📫 How to reach me: https://www.linkedin.com/in/tiasha-bhowmik-b78692169/  <br/>
 🎥 Part Time Traveller - wanderlust<br/>
