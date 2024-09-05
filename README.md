@@ -1,16 +1,17 @@
 ### Hi there, I'm Tiasha <br/>
-A Full Stack Web developer🎯 from India.👋 <br/>
+A Web developer🎯 from India.👋 <br/>
 
 💼 I’m currently working as a Frontend Engineer at SERVIFY.<br/>
-🎒 I've done almost 2 internships in frontend primarily.<br/>
+🎒 I have over 4+ years of experience in frontend development.<br/>
 🧭 I love exploring and working both in frontend and backend.<br/>
 🎭 I love connecting with people across all platforms.<br/>
 📚 What do I believe? Never Give up <br/>
+😄 Lets Collab and Create a beautiful world through Tech <br/>
 📫 How to reach me: https://www.linkedin.com/in/tiasha-bhowmik-b78692169/  <br/>
 🎥 Part Time Traveller - wanderlust<br/>
 
 **Languages**:
-ReactJS , Javascript , NextJS , React Native , NodeJS , Redux, Hooks , CSS, HTML , Bootstrap , MaterialUI , ChakraUI , TailwindCSS , SASS , Figma , SCSS , MongoDB<br/>
+ReactJS , Javascript , Redux , Hooks, Typescript , MicroFrontend, NextJS , CSS, HTML , Bootstrap , MaterialUI , AntD , ChakraUI , TailwindCSS , SASS , Figma , SCSS ,NodeJs , MongoDB<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhowmiktiasha&show_icons=true&theme=radical&rank_icon=github" width="400">
 
