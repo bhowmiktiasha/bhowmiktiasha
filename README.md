@@ -11,7 +11,7 @@ A Web developer🎯 from India.👋 <br/>
 🎥 Part Time Traveller - wanderlust<br/>
 
 **Languages**:
-ReactJS , Javascript , Redux , Hooks, Typescript , MicroFrontend, NextJS , CSS, HTML , Bootstrap , MaterialUI , AntD , ChakraUI , TailwindCSS , SASS , Figma , SCSS ,NodeJs , MongoDB<br/>
+ReactJS , Javascript , Redux , Hooks, Typescript, React Query, MicroFrontend, NextJS , CSS, HTML ,Webpack, REST APIs, GraphQL, Bootstrap , MaterialUI , AntD , ChakraUI ,EChart, TailwindCSS , SASS , Figma , SCSS ,NodeJs , MongoDB<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhowmiktiasha&show_icons=true&theme=radical&rank_icon=github" width="400">
 
