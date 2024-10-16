@@ -3,10 +3,8 @@ A Web developer🎯 from India.👋 <br/>
 
 💼 I’m currently working as a Frontend Engineer at SERVIFY.<br/>
 🎒 I have over 4+ years of experience in frontend development.<br/>
-🧭 I love exploring and working both in frontend and backend.<br/>
 🎭 I love connecting with people across all platforms.<br/>
 📚 What do I believe? Never Give up <br/>
-😄 Lets Collab and Create a beautiful world through Tech <br/>
 📫 How to reach me: https://www.linkedin.com/in/tiasha-bhowmik-b78692169/  <br/>
 🎥 Part Time Traveller - wanderlust<br/>
 
