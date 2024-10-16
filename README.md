@@ -10,8 +10,9 @@ A Web developer🎯 from India.👋 <br/>
 📫 How to reach me: https://www.linkedin.com/in/tiasha-bhowmik-b78692169/  <br/>
 🎥 Part Time Traveller - wanderlust<br/>
 
-**Languages**:
-ReactJS , Javascript , Redux , Hooks, Typescript, React Query, MicroFrontend, NextJS , CSS, HTML ,Webpack, REST APIs, GraphQL, Bootstrap , MaterialUI , AntD , ChakraUI ,EChart, TailwindCSS , SASS , Figma , SCSS ,NodeJs , MongoDB<br/>
+**Languages**: JavaScript, TypeScript, HTML <br/>
+**Frameworks/Libraries**: React.js, Hooks, Redux, Redux Toolkit, Context API, Zustand, REST APIs, ReactQuery, Next.js, Node.js, GraphQL, Chartjs, D3.js<br/>
+**Styling**: CSS, SCSS, Bootstrap, Material UI, Chakra UI, Tailwind CSS, Ant Design, Figma<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhowmiktiasha&show_icons=true&theme=radical&rank_icon=github" width="400">
 
