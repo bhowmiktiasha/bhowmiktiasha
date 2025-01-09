@@ -1,5 +1,5 @@
 ### Hi there, I'm Tiasha <br/>
-A Software Engineer🎯 from India.👋 <br/>
+A Software Engineer🎯 from India.👋  <br/>
 
 💼 I’m currently working as a Frontend Engineer at SERVIFY.<br/>
 🎒 I have over 3.5+ years of experience in frontend development.<br/>
