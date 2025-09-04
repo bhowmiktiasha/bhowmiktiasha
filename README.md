@@ -1,7 +1,8 @@
 ### Hi there 👋 <br/>
 <hr/>
 👉 I'm a Frontend-Focused Fullstack Engineer passionate about building high-performance, scalable, and visually engaging web applications. While I work across the stack, my primary focus is on crafting rich user interfaces, interactive experiences, and optimized web performance.<br/>
-👉 I'm currently working on: Remix, Nextjs, Reactjs, Nodejs, JavaScript, TypeScript, Playwright, D3.js, Jest etc.<br/>
+👉 I'm currently working on: Remix, Nextjs, Reactjs, Nodejs, JavaScript, TypeScript, Playwright, D3.js, Jest etc. <br/>
+
 
 💼 4+ Years of Experience in Software Development<br/>
 🎓 M.Tech in Software Engineering, CSE (BITS Pilani)<br/>
