@@ -1,17 +1,15 @@
-### Hi there, I'm Tiasha <br/>
-A Software Engineer🎯 from India.👋  <br/>
+### Hi there 👋 <br/>
+I'm a Frontend-Focused Fullstack Engineer passionate about building high-performance, scalable, and visually engaging web applications. While I work across the stack, my primary focus is on crafting rich user interfaces, interactive experiences, and optimized web performance.<br/>
+Currently working with Remix, Nextjs, Reactjs, Nodejs, JavaScript, TypeScript, Playwright etc.
 
-💼 I’m currently working as a Frontend Engineer at SERVIFY.<br/>
-🎒 I have over 3.5+ years of experience in frontend development.<br/>
-🎭 I love connecting with people across all platforms.<br/>
-📚 What do I believe? Never Give up <br/>
-📫 How to reach me: https://www.linkedin.com/in/tiasha-bhowmik-b78692169/  <br/>
-🎥 Part Time Traveller - wanderlust<br/>
+💼 4+ Years of Experience in Software Development<br/>
+🎓 M.Tech in Software Engineering,CSE (BITS Pilani)<br/>
+🌍 Passionate about AI and next-gen tech — currently exploring WebXR and immersive 3D experiences<br/>
+✨ Outside work: traveling, trekking, photography and singing<br/>
 
-**Languages**: JavaScript, TypeScript, HTML <br/>
-**Frameworks/Libraries**: React.js, Hooks, Redux, Redux Toolkit, Context API, Zustand, REST APIs, ReactQuery, Next.js, Node.js, GraphQL, Chartjs, D3.js<br/>
-**Styling**: CSS, SCSS, Bootstrap, Material UI, Chakra UI, Tailwind CSS, Ant Design, Figma<br/>
-**Knowledge**: Generative AI(Gen-Ai)
+
+🌍 Open to Remote Full-time & Freelance Opportunities  <br/>
+📥 Mail : tiasha.bhowmik09@gmail.com <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhowmiktiasha&show_icons=true&theme=radical&rank_icon=github" width="400">
 
