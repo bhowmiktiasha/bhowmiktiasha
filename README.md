@@ -1,6 +1,6 @@
 ### Hi there 👋 <br/>
 ---
-👉 I'm a Frontend-Focused Fullstack Engineer passionate about building high-performance, scalable, and visually engaging web applications. <br/>
+👉 I'm a Frontend-Focused FullStack Engineer passionate about building high-performance, scalable, and visually engaging web applications. <br/>
 
 👉 I'm currently working on: Remix | Nextjs | Reactjs | Nodejs | JavaScript | TypeScript | Playwright | D3.js | Jest etc. <br/>
 <br/>
@@ -11,6 +11,8 @@
 <br/>
 📥 Mail: tiashabhowmik2@gmail.com <br/>
 🔗 LinkedIn: https://www.linkedin.com/in/tiashabhowmik/<br/>
+🔗 HashNode: https://hashnode.com/@tiashab<br/>
+🔗 Dev.to: https://dev.to/tiashabhowmik<br/>
 <br/>
 🌍 Open to Remote Full-time & Freelance Opportunities <br/>
 
