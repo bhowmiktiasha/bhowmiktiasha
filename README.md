@@ -9,7 +9,7 @@
 🌱 Passionate about AI and next-gen tech — I'm currently learning WebXR and immersive 3D experiences<br/>
 ✨ Outside work: traveling, trekking, photography and singing<br/>
 <br/>
-📥 Mail: tiasha.bhowmik09@gmail.com <br/>
+📥 Mail: tiashabhowmik2@gmail.com <br/>
 🔗 LinkedIn: https://www.linkedin.com/in/tiashabhowmik/<br/>
 <br/>
 🌍 Open to Remote Full-time & Freelance Opportunities <br/>
