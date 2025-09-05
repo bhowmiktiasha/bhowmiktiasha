@@ -1,17 +1,17 @@
 ### Hi there 👋 <br/>
 ---
-👉 I'm a Frontend-Focused Fullstack Engineer passionate about building high-performance, scalable, and visually engaging web applications. While I work across the stack, my primary focus is on crafting rich user interfaces, interactive experiences, and optimized web performance.<br/>
+👉 I'm a Frontend-Focused Fullstack Engineer passionate about building high-performance, scalable, and visually engaging web applications. <br/>
 
-👉 I'm currently working on: Remix, Nextjs, Reactjs, Nodejs, JavaScript, TypeScript, Playwright, D3.js, Jest etc. <br/>
+👉 I'm currently working on: Remix | Nextjs | Reactjs | Nodejs | JavaScript | TypeScript | Playwright | D3.js | Jest etc. <br/>
 <br/>
 💼 4+ Years of Experience in Software Development<br/>
 🎓 M.Tech in Software Engineering, CSE (BITS Pilani)<br/>
 🌱 Passionate about AI and next-gen tech — I'm currently learning WebXR and immersive 3D experiences<br/>
 ✨ Outside work: traveling, trekking, photography and singing<br/>
-
-📥 Mail : tiasha.bhowmik09@gmail.com <br/>
+<br/>
+📥 Mail: tiasha.bhowmik09@gmail.com <br/>
 🔗 LinkedIn: https://www.linkedin.com/in/tiashabhowmik/<br/>
-
+<br/>
 🌍 Open to Remote Full-time & Freelance Opportunities <br/>
 
 
