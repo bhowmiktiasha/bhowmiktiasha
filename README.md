@@ -11,6 +11,7 @@
 <br/>
 📥 Mail: tiashabhowmik2@gmail.com <br/>
 🔗 LinkedIn: https://www.linkedin.com/in/tiashabhowmik/<br/>
+🔗 Portfolio: https://tiashab.netlify.app/<br/>
 🔗 HashNode: https://hashnode.com/@tiashab<br/>
 🔗 Dev.to: https://dev.to/tiashabhowmik<br/>
 <br/>
